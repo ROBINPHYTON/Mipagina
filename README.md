@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Mi Pagina
+
+[Prueba]
+
 
 You can use the [editor on GitHub](https://github.com/sarahmugi/Mipagina/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
